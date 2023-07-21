@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Bingo Tedhe Medhe Snacks - With Corn, Rice, Dal, Masala Tadka, 2x85 g Multipack",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1215171_3-bingo-tedhe-medhe-snacks-with-corn-rice-dal-masala-tadka.jpg",
+      "price": 30
+    },
+    {
+      "id": 1,
+      "name": "Haldirams Instant Bhel - Spicy Blend Of Chick Peas, Lentils, Peanuts & Puff Rice, 44 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20004456_1-haldirams-instant-bhel.jpg",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Haldirams Namkeen - Masala Peanut, 40 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/20002976_2-haldirams-namkeen-masala-peanut.jpg",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Wai Wai Ready To Eat Chicken Noodles, 70 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20004318_6-wai-wai-ready-to-eat-noodles-chicken.jpg",
+      "price": 14.5
+    },
+    {
+      "id": 4,
+      "name": "Lays Potato Chips - American Style Cream & Onion Flavour, Crunchy Snacks, 40 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/102745…tato-chips-american-style-cream-onion-flavour.jpg",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "Haldirams Soya Sticks, 200 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20004451_2-haldirams-soya-sticks.jpg",
+      "price": 45
+    },
+    {
+      "id": 6,
+      "name": "Townbus Butter Murukku, 135 g",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40123673_4-townbus-namkeen-butter-murukku.jpg",
+      "price": 39.5
+    },
+    {
+      "id": 7,
+      "name": "Parle Gluco Biscuits - Parle-G, 800 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/102102_4-parle-gluco-biscuits-parle-g.jpg",
+      "price": 80.5
+    },
+    {
+      "id": 8,
+      "name": "Kissan Mixed Fruit Jam, 700 g",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40002118_13-kissan-mixed-fruit-jam.jpg",
+      "price": 230.5
+    },
+    {
+      "id": 9,
+      "name": "ACT II Instant Popcorn - Classic Salted, Snacks, 30 g Pouch",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/189220…nt-popcorn-classic-salted-hot-fresh-delicious.jpg",
+      "price": 9.5
+    }
+  ],
+  "cart": []
+}
