@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "Lays Potato Chips - American Style Cream & Onion Flavour, Crunchy Snacks, 40 g Pouch",
-      "image": "https://www.bigbasket.com/media/uploads/p/l/102745…tato-chips-american-style-cream-onion-flavour.jpg",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40127984_4-lays-chips-west-indies-hot-n-sweet-chilli.jpg",
       "price": 20
     },
     {
@@ -54,12 +54,26 @@
       "image": "https://www.bigbasket.com/media/uploads/p/l/40002118_13-kissan-mixed-fruit-jam.jpg",
       "price": 230.5
     },
+  
     {
-      "id": 9,
-      "name": "ACT II Instant Popcorn - Classic Salted, Snacks, 30 g Pouch",
-      "image": "https://www.bigbasket.com/media/uploads/p/l/189220…nt-popcorn-classic-salted-hot-fresh-delicious.jpg",
-      "price": 9.5
-    }
+ "id":9,
+"name":"Nissin Food Cup Noodles Mazedaar Masala, 3x70 g Multipack",
+"image":"https://www.bigbasket.com/media/uploads/p/l/189220…nt-popcorn-classic-salted-hot-fresh-delicious.jpg",
+"price":131.10
+}
+,
+{
+ "id":10,
+"name":"lays-potato-chips-indias-magic-masala.jpg",
+"image":"https://www.bigbasket.com/media/uploads/p/l/1212516_7-lays-potato-chips-indias-magic-masala.jpg",
+"price":72.40
+},
+{
+  "id": 11,
+  "name":"Cadbury Dairy Milk Chocolate Bar - Crispello, 3x35 g Multipack",
+  "image":"https://www.bigbasket.com/media/uploads/p/l/1221287_1-cadbury-dairy-milk-chocolate-bar-crispello.jpg",
+  "price":57
+}
   ],
   "cart": []
 }
